@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cwaliimran
-- 👀 I’m interested in learning new technologies
-- 🌱 I’m currently working as software engineer in Arfa Software Technology Park Lahore Punjab Pakistan
-- 💞️ I’m looking to collaborate on unfinished projects :-p | New projects android apps, web admin panels, apps flow, app UI design.
+- 🌱 I’m currently working as software engineer in Glowingsoft Technologies as Team Lead
+- 💞️ I’m looking to collaborate on unfinished projects :-p | New projects android apps, IOS, API's web admin panels, apps flow, app UI design.
 - 📫 cwaliimran@gmail.com
 you can find me on UPWORK with username https://www.upwork.com/freelancers/~017b41626f124945fa
 you can find me on FIVERR with username https://www.fiverr.com/cwaliimran
