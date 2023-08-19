@@ -11,7 +11,7 @@ cwaliimran/cwaliimran is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![Ali Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwaliimran-CS&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Ali Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwaliimran&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwaliimran&hide_progress=true)
