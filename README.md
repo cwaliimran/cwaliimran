@@ -16,9 +16,9 @@
 
 <a href="https://github.com/cwaliimran">
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=cwaliimran&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<!-- <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwaliimran&layout=compact&langs_count=22&theme=radical"/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=cwaliimran&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
+<!-- <br> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwaliimran&layout=compact&langs_count=8&theme=radical"/>
 </a>
 
 #### Connect with me 👇
