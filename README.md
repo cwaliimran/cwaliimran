@@ -3,12 +3,12 @@
 <h2 align="center" >Hey, i'm Ali Imran 👋</h2>
 
 #### About me:
-- 📱 I am an Android Engineer with a passion for creating innovative mobile applications.
+- 📱 I am an Full Stack Engineer with a passion for creating backend services and innovative mobile applications.
 - 😊 I thrive on challenges and am always eager to tackle new projects.
-- 📑 Feel free to reach out to me for anything related to the Android world; I'm here to help.
-- 📚 Currently, I'm sharpening my skills in Kotlin, Java, and Dart to stay at the forefront of mobile development.
-- 🤓 I am actively seeking opportunities to collaborate on exciting Android projects.
-- ☕ I'm also a coffee lover who finds inspiration in every cup.
+- 📑 Feel free to reach out to me for anything related to the Development world; I'm here to help.
+- 📚 Currently, I'm sharpening my skills in MERN, React Native, Kotlin, Java, and Dart to stay at the forefront of development.
+- 🤓 I am actively seeking opportunities to collaborate on exciting projects.
+- ☕ I'm also a milk lover who finds inspiration in every glass.
 - 🚀 Ready to bring your ideas to life? Let's work together on your next project! Contact me to discuss how I can contribute to your success.
 
 🌎 **"What we know is a drop, what we don't know is an ocean."**
